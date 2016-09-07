@@ -1,5 +1,6 @@
 {
     "name": "powellpowerconditioning/test",
+    "description": "Test package",
     "autoload": {
         "psr-4": {
             "PowellPowerConditioning\\Test\\": ""
