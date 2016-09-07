@@ -1,0 +1,8 @@
+{
+    "name": "powellpowerconditioning/test",
+    "autoload": {
+        "psr-4": {
+            "PowellPowerConditioning\\Test\\": ""
+        }
+    }
+}
