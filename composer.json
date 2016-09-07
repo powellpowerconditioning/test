@@ -3,7 +3,11 @@
     "description": "Test package",
     "autoload": {
         "psr-4": {
-            "PowellPowerConditioning\\Test\\": ""
+            "PowellPowerConditioning\\TestBundle\\": ""
         }
+    },
+    "require-dev": {
+        "symfony/http-kernel": "3.0.*",
+        "symfony/dependency-injection": "3.0.*"
     }
 }
